@@ -2,8 +2,8 @@
 // @name         Link4m - Clean Source (Deobfuscated)
 // @namespace    local.reconstruction.link4m
 // @version      1.0.0
-// @description  Bản giải mã sạch hoàn nguyên 100% mã nguồn Link4m (n1ulls) - Shadow DOM UI, Multi-Step Countdown, OCR Tesseract, Widget Challenge, Auto Bypass
-// @author       n1ulls (Deobfuscated & Clean Reconstructed)
+// @description  Bản giải mã sạch hoàn nguyên 100% mã nguồn Link4m (n1ulls) - Hỗ trợ decobf: @hlounhh (<@1312674288775593984>)
+// @author       n1ulls (Hỗ trợ decobf: @hlounhh - <@1312674288775593984>)
 // @match        *://link4m.app/*
 // @match        *://*.link4m.app/*
 // @match        *://link4m.com/*

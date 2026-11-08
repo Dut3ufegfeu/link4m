@@ -3,6 +3,8 @@
 Dự án phân tích, bẻ khóa và hoàn nguyên mã nguồn gốc của Userscript:
 **`Link4m - Clean Source (Deobfuscated)`** (nguyên bản từ `conphuskibidi-cloud/icebui/cakj.js`).
 
+> **Hỗ trợ decobf**: `@hlounhh` (`<@1312674288775593984>`)
+
 ---
 
 ## 🚀 Cài đặt trực tiếp (Userscript)
