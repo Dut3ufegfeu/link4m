@@ -2,8 +2,8 @@
 // @name         Link4m - Clean Source (Deobfuscated)
 // @namespace    local.reconstruction.link4m
 // @version      1.0.0
-// @description  Bản giải mã sạch hoàn nguyên 100% mã nguồn Link4m (n1ulls) - Hỗ trợ decobf: @hlounhh (<@1312674288775593984>)
-// @author       n1ulls (Hỗ trợ decobf: @hlounhh - <@1312674288775593984>)
+// @description  Bản giải mã sạch hoàn nguyên 100% mã nguồn Link4m (n1ulls) - Owner: @tien_nood2 (<@1245646252905861190>) | Hỗ trợ: @hlounhh (<@1312674288775593984>)
+// @author       Owner decobf: @tien_nood2 (<@1245646252905861190>) - Hỗ trợ: @hlounhh (<@1312674288775593984>)
 // @match        *://link4m.app/*
 // @match        *://*.link4m.app/*
 // @match        *://link4m.com/*
